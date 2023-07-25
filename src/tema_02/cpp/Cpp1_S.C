@@ -1,6 +1,6 @@
 /*
 
-Programa: Hello1_P.C
+Programa: Cpp1_P.C
 
 *  Compilar
 g++ -std=c++11 Cpp1_S.C -lpthread -o Cpp1_S 

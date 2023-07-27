@@ -16,21 +16,21 @@ Implementación de los algoritmos y conceptos de concurrencia en C++.
 
 * 3.- Introduction to Memory Hierarchy Organization (Solihin, 2015).
     - Basic Architecture of a cache.
-            + Placement Policy.
-            + Replacement Policy.
-            + Write Policy.
+        + Placement Policy.
+        + Replacement Policy.
+        + Write Policy.
     - Prefetching.
 
 * 4.- Introduction to Shared Memory Multiprocessors(Solihin, 2015).
     - The Cache Coherence Problem.
-            + MESI protocol (Herlihy et al., 2021).
+        + MESI protocol (Herlihy et al., 2021).
     - Memory Consistency Problem.
-            + Sequencial Consistency.
-            + Relaxed Consistency Models.
+        + Sequencial Consistency.
+        + Relaxed Consistency Models.
     - Synchronization Problem.
-            + Lock implementations (Atomics operations, CAS, LLCL).
-            + Barriers implementations.
-            + Transactional memory.
+        + Lock implementations (Atomics operations, CAS, LLCL).
+        + Barriers implementations.
+        + Transactional memory.
 
 * 5.- Acceso Concurrente a Datos compartidos (Alessandrini, 2015; Williams, 2019)
     - Race Conditions

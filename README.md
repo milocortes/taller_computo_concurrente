@@ -27,7 +27,14 @@ Implementación de los algoritmos y conceptos de concurrencia en C++.
 * 5.- Estructuras de datos basadas en locks (Barlas, 2022; Williams, 2019)
     - Queues
     - Lists
-    
+
+* 6.- Estructuras de datos libres de locks (Barlas, 2022; Williams, 2019)
+    - Lock-free stacks
+    - A bounded lock-free queue: first attempt
+    - The ABA problem
+    - A fixed bounded lock-free queue
+    - A unbounded lock-free queue
+
 
 ## Referencias
 * Alessandrini, V. (2015). Shared memory application programming: Concepts and strategies in Multicore application programming. Morgan Kaufmann, first edition.
